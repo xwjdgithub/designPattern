@@ -1,4 +1,4 @@
-package singleton;
+package builderPattern.singleton;
 
 public class Singleton6 {
     private static Singleton6 instacne;

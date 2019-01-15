@@ -1,4 +1,4 @@
-package singleton;
+package builderPattern.singleton;
 
 /**
  * 静态常量，类加载时即实例化，能解决线程同步的问题

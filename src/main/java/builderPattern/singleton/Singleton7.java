@@ -1,4 +1,4 @@
-package singleton;
+package builderPattern.singleton;
 
 public class Singleton7 {
     private Singleton7(){}

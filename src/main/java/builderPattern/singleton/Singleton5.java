@@ -1,4 +1,4 @@
-package singleton;
+package builderPattern.singleton;
 
 public class Singleton5 {
     private static Singleton5 instance;
